@@ -2,8 +2,7 @@ import React, {useEffect, useState} from "react";
 import Navbar from "./Componentes/Navbar";
 import Characters from "./Componentes/Characters";
 import  Pagina  from "./Componentes/Pagina";
-
-
+import  "./hojasEstilo/App.css";
 
 
 
